@@ -12,7 +12,6 @@
         "--socket=fallback-x11",
         "--device=dri"
     ],
-
     "modules": [
         {
             "name": "libkdegames",
@@ -20,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/libkdegames-22.08.2.tar.xz",
-                    "sha256": "524ad11b13ac946d86e599a7a255b651f9377fad4433a4ec22924c8f54cc6dbd",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkdegames-22.08.3.tar.xz",
+                    "sha256": "4ccf4d5d5530f464d901ece7ea55299d9fb6c2349e824f92e0aa1f8e1732a097",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -37,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/libkmahjongg-22.08.2.tar.xz",
-                    "sha256": "456237e07c47dd82d9a79fa9b8c818b74a29f7315e8345e76e2772f6da02876e",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkmahjongg-22.08.3.tar.xz",
+                    "sha256": "1ee48f0ebf2deb9f431bd2fb50984ded3085a5fc94aa43ce860ae446ad624b6c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -54,8 +53,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kmahjongg-22.08.2.tar.xz",
-                    "sha256": "4ff5df9253869df72f9d804ef6026d941d7f994fd12994cdc9e8fce7ef5ffcb7",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kmahjongg-22.08.3.tar.xz",
+                    "sha256": "24360d1ed40c77257780578fc09c45dc74191c7d449dcfb89920b2e8a1dcbc9c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
