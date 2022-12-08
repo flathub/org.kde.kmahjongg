@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkdegames-22.08.3.tar.xz",
-                    "sha256": "4ccf4d5d5530f464d901ece7ea55299d9fb6c2349e824f92e0aa1f8e1732a097",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/libkdegames-22.12.0.tar.xz",
+                    "sha256": "9de4123c3c7fdf9e5be8daae8c2991a5ff57cc20b4df04028389215835a4b39c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkmahjongg-22.08.3.tar.xz",
-                    "sha256": "1ee48f0ebf2deb9f431bd2fb50984ded3085a5fc94aa43ce860ae446ad624b6c",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/libkmahjongg-22.12.0.tar.xz",
+                    "sha256": "ce8411febf1aa8ab9f85b86b0f984ed4f621ca70d20f6f1b27fd25442db9bc4c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -52,8 +52,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kmahjongg-22.08.3.tar.xz",
-                    "sha256": "24360d1ed40c77257780578fc09c45dc74191c7d449dcfb89920b2e8a1dcbc9c",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kmahjongg-22.12.0.tar.xz",
+                    "sha256": "2db76249f42af3d0b18d4241292c41e3ca262749d5f622dc481a58e4a9c9c338",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
