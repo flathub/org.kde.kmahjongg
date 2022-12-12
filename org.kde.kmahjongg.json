@@ -52,8 +52,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kmahjongg-22.08.3.tar.xz",
-                    "sha256": "24360d1ed40c77257780578fc09c45dc74191c7d449dcfb89920b2e8a1dcbc9c",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kmahjongg-22.12.0.tar.xz",
+                    "sha256": "2db76249f42af3d0b18d4241292c41e3ca262749d5f622dc481a58e4a9c9c338",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
