@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/libkmahjongg-22.12.2.tar.xz",
-                    "sha256": "fedf8194756af2cf82a356585eeecd9f18baca3c876e14f2e63052b1be680940",
+                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/libkmahjongg-22.12.3.tar.xz",
+                    "sha256": "a01a64970d18bd5e53ecac10f980a374b6d4c1bd17009e3c8cab692bcc304c13",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
